@@ -1,0 +1,3 @@
+Browser ist Mozilla Firefox Version 111.0.1
+die Seite wurde entwickelt unter Windows 10
+es gibt keine besonderen Hardware Voraussetzung
